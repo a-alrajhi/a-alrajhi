@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abdulrahman Al Rajhi!
 
-🎓 **Computer Science Graduate** | 💻 **Full-Stack Developer** | 🌍 **Based in Riyadh, Saudi Arabia**  
+🎓 **Full-Stack Developer** | 💻 **DevOps** | 🌍 **Based in Riyadh, Saudi Arabia**  
 
 ---
 
@@ -13,20 +13,62 @@
 
 ## 🔭 **What I'm Working On**
 - Building scalable full-stack applications.
+- Leading DevOps infrastructure and CI/CD pipeline development with Jenkins shared libraries
 - Exploring advanced **data structures and algorithms** to optimize problem-solving.
-- Enhancing my skills in **backend development** and **frontend frameworks**.
-
 ---
 
-## 🛠️ **Technical Skills**
-### Languages:
-- Java, Python, C++, C, Go, Shell, HTML, CSS, JavaScript
+## 🛠️ Technical Skills
 
-### Tools & Frameworks:
-- Git, GitHub, Eclipse, VSCode, PyCharm, IntelliJ IDEA, JUnit, Bash, Unix
-  
-### Methodologies:
-- Agile, Scrum, Test-Driven Development (TDD), Object-Oriented Programming (OOP)
+### Programming Languages
+- **Java** • **Python** • **JavaScript** • **Groovy** • **C** • **Bash/Shell** • Assembly
+
+### Backend & Frameworks
+- **Spring Boot** (Microservices, REST APIs)
+- **Maven**
+- **Event-Driven Architecture**
+- **CQRS Pattern**
+- **Event Sourcing**
+
+### Frontend & Desktop
+- **Vue.js**
+- **JavaFX**
+- **Tailwind CSS**
+- **HTML/CSS**
+
+### DevOps & CI/CD
+- **Jenkins** (Shared Libraries, Groovy Scripting, Pipeline DSL)
+- **Jenkins Configuration as Code (JCasC)**
+- **Docker** & **Docker Compose**
+- **Git** (Branch Protection, PR Workflows)
+- **CI/CD Pipelines**
+
+### Databases & Migrations
+- **MongoDB**
+- **PostgreSQL**
+- **H2** (In-memory testing)
+- **Mongock** (MongoDB Migrations)
+
+### Testing & Code Quality
+- **JUnit** & **Mockito**
+- **Integration Testing**
+- **SonarQube**
+- **Checkstyle**
+- **PMD**
+- **SpotBugs**
+
+### Tools & Platforms
+- **Linux/Unix**
+- **npm/Node.js**
+- **VMware**
+
+### Methodologies & Practices
+- **Agile** & **Scrum**
+- **Test-Driven Development (TDD)**
+- **Object-Oriented Programming (OOP)**
+- **Domain-Driven Design (DDD)**
+- **Microservices Architecture**
+- **Code Review Practices**
+- **Technical Documentation**
 
 ---
 
