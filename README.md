@@ -77,10 +77,7 @@
 ### [Assembly Guessing Game](https://github.com/a-alrajhi/Assembly-Guessing-Game)  
 - **Tech Stack:** Assembly  
 - Designed an interactive guessing game where players identify a randomly generated number within a specified range.  
-
-### [Generic Set Data Structure](https://github.com/a-alrajhi/GenericSet)  
-- **Tech Stack:** Java  
-- Implemented a generic set data structure with efficient operations for adding, removing, and checking elements.  
+ 
 
 ### [Boyer-Moore Algorithm](https://github.com/a-alrajhi/BoyerMoore)  
 - **Tech Stack:** Java  
@@ -89,10 +86,6 @@
 ### [Boggle Game](https://github.com/a-alrajhi/Boggle)  
 - **Tech Stack:** Java  
 - Created a word-finding game with a graphical interface, enabling players to find words in a grid of letters.  
-
-### [To-Do List Application](https://github.com/a-alrajhi/ToDoListGUI)  
-- **Tech Stack:** JavaFX  
-- Built a user-friendly To-Do list application featuring task management and an intuitive GUI.  
 
 ### [Paint Program](https://github.com/a-alrajhi/paint)  
 - **Tech Stack:** Java  
